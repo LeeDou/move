@@ -1,2 +1,2 @@
-# simpleMove1
-简单的窗口移动gongneng
+# move
+实现区块移动的动画效果，解决了事件的冒泡等bug
